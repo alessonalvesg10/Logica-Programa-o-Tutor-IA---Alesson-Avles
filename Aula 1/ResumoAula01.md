@@ -33,4 +33,4 @@ Saída:
 Resultado dos dados que chega no usuário
 
 Lógica:
-Organização do pensamento
+Organização do pensamento 
