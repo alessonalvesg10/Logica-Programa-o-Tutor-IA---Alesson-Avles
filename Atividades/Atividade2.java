@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Atividades {
+public class Atividade2 {
   public static  void main(String[] args) {
   Scanner vox = new Scanner (System.in);
   System.out.print("Qual seu nome? ");
